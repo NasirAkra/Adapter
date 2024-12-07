@@ -35,5 +35,5 @@ You can further modify this template based on the specific adapter type you're w
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/adapter-example.git
+git clone https://github.com/NasirAkra/adapter-example.git
 cd adapter-example
